@@ -52,4 +52,4 @@ def transliterate(text: str):
 
 
 print(transliterate("На улице светит солнце, и птицы поют веселые песниь."))
-print(transliterate("orospu çocuğu vakıfbank"))
+print(transliterate("Vakıfbank efsane"))
